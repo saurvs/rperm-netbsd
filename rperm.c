@@ -5,7 +5,6 @@
 #include <sys/module.h>
 #include <sys/systm.h>
 #include <sys/types.h>
-#include <sys/hash.h>
 
 #define R32MAX 4294967295
 #define CMAJOR 420
